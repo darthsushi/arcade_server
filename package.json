@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "npx nodemon src/app.js",
-    "start": "src/app.js --env mode=production"
+    "start": "node src/app.js --env mode=production"
   },
   "author": "Isael Caballero Guzmán (darthsushi)",
   "license": "ISC",
