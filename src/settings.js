@@ -20,6 +20,7 @@ const NO_AUTH_ROUTES = [
 ]
 
 const ACCEPTED_ORIGINS = [
+  'https://arcade.darthsushi.wtf',
   `http://localhost:${PORT}` // Own Server
 ]
 
